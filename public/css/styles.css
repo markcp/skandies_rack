@@ -16,6 +16,10 @@ ul#shunned {
   text-align: center;
 }
 
+ul#shunned li {
+  display: block;
+}
+
 li {
   list-style-type: none;
 }
